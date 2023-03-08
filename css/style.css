@@ -2,3 +2,33 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+#area-math {
+  color: white;
+  text-align: center;
+}
+
+#perimeter-math {
+  color: white;
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  color: black;
+}
